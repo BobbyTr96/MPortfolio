@@ -46,12 +46,12 @@ const Work = () => {
               />
 
               {/* pretitle */}
-              <div className="absolute -bottom-full left-6 lg:left-12 group-hover:bottom-32 md:group-hover:bottom-24 transition-all duration-500 z-50">
+              <div className="absolute z-40 -bottom-full left-6 lg:left-12 group-hover:bottom-32 md:group-hover:bottom-24 transition-all duration-500 z-50">
                 <span className="text-gradient"> Portfolio </span>
               </div>
 
               {/* title */}
-              <div className="absolute -bottom-full left-6 lg:left-12 group-hover:bottom-6 transition-all duration-700 z-50">
+              <div className="absolute z-40 -bottom-full left-6 lg:left-12 group-hover:bottom-6 transition-all duration-700 z-50">
                 <p>
                   <span className="text-2xl text-white font-semibold">
                     Technologies :
@@ -88,12 +88,12 @@ const Work = () => {
               />
 
               {/* pretitle */}
-              <div className="absolute -bottom-full left-6 lg:left-12 group-hover:bottom-32 md:group-hover:bottom-24 transition-all duration-500 z-50">
+              <div className="absolute z-40 -bottom-full left-6 lg:left-12 group-hover:bottom-32 md:group-hover:bottom-24 transition-all duration-500 z-50">
                 <span className="text-gradient">Booking Movie Tickets</span>
               </div>
 
               {/* title */}
-              <div className="absolute -bottom-full left-6 lg:left-12 group-hover:bottom-6 transition-all duration-700 z-50">
+              <div className="absolute z-40 -bottom-full left-6 lg:left-12 group-hover:bottom-6 transition-all duration-700 z-50">
                 <p>
                   <span className="text-2xl text-white font-semibold">
                     Technologies :
@@ -121,12 +121,12 @@ const Work = () => {
               />
 
               {/* pretitle */}
-              <div className="absolute -bottom-full left-6 lg:left-12 group-hover:bottom-32 md:group-hover:bottom-24 transition-all duration-500 z-50">
+              <div className="absolute z-40 -bottom-full left-6 lg:left-12 group-hover:bottom-32 md:group-hover:bottom-24 transition-all duration-500 z-50">
                 <span className="text-gradient">E-Learning</span>
               </div>
 
               {/* title */}
-              <div className="absolute -bottom-full left-6 lg:left-12 group-hover:bottom-6 transition-all duration-700 z-50">
+              <div className="absolute z-40 -bottom-full left-6 lg:left-12 group-hover:bottom-6 transition-all duration-700 z-50">
                 <p>
                   <span className="text-2xl text-white font-semibold">
                     Technologies :
