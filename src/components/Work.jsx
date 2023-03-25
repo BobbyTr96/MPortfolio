@@ -30,7 +30,11 @@ const Work = () => {
             </div>
 
             {/* image 1*/}
-            <a className="flex-1 group relative overflow-hidden border-2 border-white/50 rounded-xl">
+            <a
+              href="https://m-portfolio-jade.vercel.app/"
+              target="_blank"
+              className="flex-1 group relative overflow-hidden border-2 border-white/50 rounded-xl"
+            >
               {/* overlay */}
               <div className="absolute w-full h-full z-40 group-hover:bg-black/70 transition-all duration-300"></div>
 
