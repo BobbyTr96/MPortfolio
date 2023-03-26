@@ -59,11 +59,10 @@ const About = () => {
 
             <div className="flex gap-x-8 items-center">
               <button className="btn btn-lg">
-                <a href="https://drive.google.com/uc?export=download&id=1Ba0GKU_M2bTW2bGIA1PQ_OYGfrnS2yMd">
+                <a href="https://drive.google.com/uc?export=download&id=1zPbqt9-kimgwq6Rt6S4HfGKL-lRKMNRB">
                   Download CV
                 </a>
               </button>
-              
             </div>
           </motion.div>
         </div>
