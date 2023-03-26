@@ -48,7 +48,7 @@ const About = () => {
               <div>
                 <div className="text-[40px] font-tertiary text-gradient mb-2">
                   {/* {inView ? <CountUp start={0} end={3} duration={3} /> : null} */}
-                  3
+                  <span>3</span>
                 </div>
                 <div className="font-primary text-sm tracking-[2px]">
                   Projects <br />
