@@ -32,7 +32,7 @@ const skills = [
 
 const Skills = () => {
   return (
-    <section className="section h-screen" id="services">
+    <section className="section" id="services">
       <div className="container mx-auto">
         <div className="flex flex-col lg:flex-row">
           {/* text & image */}
