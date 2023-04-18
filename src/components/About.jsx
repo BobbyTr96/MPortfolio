@@ -38,7 +38,7 @@ const About = () => {
               CyberSoft information technology company in front-end, I look
               forward to having the opportunity to go further in the programming
               industry , i really enjoy programing , resolving problem and
-              created quanlity product that make me feel excited. I constantly
+              created quality product that make me feel excited. I constantly
               learn more knowlege and technology because my orientation is to
               become a senior front-end developer in the future
             </p>
